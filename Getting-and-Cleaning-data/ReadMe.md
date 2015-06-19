@@ -14,6 +14,7 @@ source("run_analysis.R") -> This source code downloads the data, unzips it to a 
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 Finally the code produces a "tidyDataset.txt" file which contains the tidy dataset.
 
 ###Required library:
