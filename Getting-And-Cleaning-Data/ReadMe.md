@@ -18,7 +18,7 @@ source("run_analysis.R") -> This source code downloads the data, unzips it to a 
 ###Required library:
 The dplyr (dplyr_0.4.1) package is required to run this R code.
 
-Machine details:
+####Machine details:
 
 The code is developed and run in RStudio.
 
